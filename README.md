@@ -1,2 +1,2 @@
 # User-Interface
-Course2
+User Interface
